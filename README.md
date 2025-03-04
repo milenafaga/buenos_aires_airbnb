@@ -4,7 +4,10 @@ Airbnb Data Analysis for Buenos Aires Argentina
 🏠 Airbnb Data Analysis
 
 📌 Project Summary
-This repository contains an exploratory data analysis (EDA) of Airbnb listing data, with a focus on neighborhood pricing in Buenos Aires. The project aims to uncover key insights into pricing trends, market segmentation, and geographic disparities across different neighborhoods. The analysis leverages choropleth mapping to visually represent average prices, thereby helping hosts and travelers understand market dynamics and make informed decisions. The analysis also looks for relationships between variables by doing linear and cluster analysis. 
+This repository contains an exploratory data analysis (EDA) of Airbnb listing data, with a focus on neighborhood pricing in Buenos Aires. The project aims to uncover key insights into pricing trends, market segmentation, and geographic disparities across different neighborhoods. The analysis leverages choropleth mapping to visually represent average prices, thereby helping hosts and travelers understand market dynamics and make informed decisions. The analysis also looks for relationships between variables by doing linear and cluster analysis.
+
+Tableau Dashboard: Explore an interactive Tableau presentation of the analysis here.
+
 
 ❓ Key Questions
 This analysis seeks to answer the following business questions:
@@ -50,6 +53,8 @@ Clean and preprocess Airbnb data
 Aggregate and analyze average pricing by neighborhood
 Create interactive choropleth maps to visualize price disparities
 Linear and cluster analysis 
+
+Unrelated to the project there is also a time analysis for real state in the USA
 
 
 📧 Questions or Feedback?
