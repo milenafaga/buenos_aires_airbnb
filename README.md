@@ -13,10 +13,11 @@ Which neighborhoods offer the most affordable listings?
 Which neighborhoods are on the premium end of the market?
 How do average prices vary across neighborhoods?
 What insights can be derived from geographical price differences to guide pricing and marketing strategies?
+
 📊 Data
 The datasets used for the analysis include:
-
 Airbnb Listings Data
+
 Contains details such as:
 
 Listing ID, name, host information
@@ -27,6 +28,7 @@ GeoJSON for Buenos Aires Neighborhoods
 Provides the geographic boundaries for neighborhoods in Buenos Aires, enabling the creation of a choropleth map.
 
 🛠️ Tools & Libraries
+
 The analysis was conducted using Python and the following libraries:
 
 Pandas – Data manipulation and analysis
@@ -37,9 +39,11 @@ Folium – Interactive maps and choropleth mapping
 Branca – Colormap creation for Folium
 
 ⚠️ Resources & Disclaimer
+
 This project uses publicly available Airbnb data for educational and analytical purposes. All analyses and visualizations in this repository are for learning and demonstration purposes only. The project objectives and conclusions are independently derived and do not reflect any official statements from Airbnb.
 
 🚀 About
+
 This repository contains Python scripts and Jupyter Notebooks for the Airbnb Data Analysis project. The project demonstrates how to:
 
 Clean and preprocess Airbnb data
@@ -47,7 +51,9 @@ Aggregate and analyze average pricing by neighborhood
 Create interactive choropleth maps to visualize price disparities
 Linear and cluster analysis 
 
+
 📧 Questions or Feedback?
 If you have any questions, suggestions, or feedback, please feel free to open an issue or reach out via GitHub Issues.
+
 
 Feel free to fork, explore, and contribute! 🚀
